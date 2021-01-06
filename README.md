@@ -1,1 +1,7 @@
 # UAS-PBO
+
+# PEMBUATAN GAME APLIKASI GAME BRICK BREAKER
+
+# Nama  : Novan Ari Pradana
+# Kelas : D4 MI19A
+# NIM   : 19051397013
