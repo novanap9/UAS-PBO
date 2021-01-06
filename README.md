@@ -7,4 +7,4 @@
 # NIM   : 19051397013
 # 
 # Screenshots
-# https://user-images.githubusercontent.com/56237209/103785187-7e90ac80-506d-11eb-9b0a-2e4cf67a39b3.png
+# ![Screenshot (68)](https://user-images.githubusercontent.com/56237209/103788990-12647780-5072-11eb-9eef-dba758d326d4.png)
